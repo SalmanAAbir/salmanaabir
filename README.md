@@ -6,7 +6,7 @@
 
 # SALMAN ABIR
 
-### Senior Frontend Developer · Web Engineer
+### Frontend Developer · Web Engineer
 
 **Building interfaces that go beyond the browser's surface.**
 
@@ -32,7 +32,7 @@
 
 ## `01` — ABOUT ME
 
-I'm a **Senior Frontend Developer** focused on building modern, interactive web experiences.
+I'm a **Frontend Developer** focused on building modern, interactive web experiences.
 
 My primary stack is **React, Next.js, JavaScript, and TypeScript**, with a particular interest in the capabilities that make the web more than just a collection of UI components.
 
@@ -296,7 +296,7 @@ I regularly experiment with browser APIs and frontend technologies to understand
 
 ```yaml
 name: Salman Abir
-role: Senior Frontend Developer
+role: Frontend Developer
 experience: 2017 → present
 
 primary_stack:
