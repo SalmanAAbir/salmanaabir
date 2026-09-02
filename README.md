@@ -4,12 +4,17 @@
 
 <div align="center">
   <img src="banner.png" alt="Salman Abir — Frontend Developer" width="100%" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Frontend+Developer+%C2%B7+Web+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript;WebRTC+%C2%B7+Canvas+%C2%B7+Media+APIs;Building+beyond+the+browser" alt="Typing tagline" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=50&lines=Frontend+Developer+%7C+Web+Engineer;React+%7C+Next.js+%7C+TypeScript;WebRTC+%7C+Canvas+%7C+Media+APIs" alt="Frontend Developer | Web Engineer" />
+</p>
 
-  <img src="status.svg" alt="Open to interesting frontend work" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%8F_Open_to_interesting_frontend_work-0D1117?style=for-the-badge&labelColor=0D1117&color=22D3EE" alt="Open to interesting frontend work" />
+</p>
 
-  <br />
+<div align="center">
 
   <a href="https://github.com/SalmanAAbir">
     <img src="https://img.shields.io/badge/GitHub-SalmanAAbir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -34,9 +39,12 @@ Frontend developer since **2017**. I ship production interfaces in **React, Next
 
 I don’t just consume web APIs. I want to know how they behave under load, what they cost, and when they’re the right tool.
 
-<div align="center">
-  <img src="architecture.svg" alt="Architecture: React to browser APIs to real-time experiences" width="100%" />
-</div>
+```mermaid
+flowchart LR
+  A["React / Next.js"] --> B["Browser APIs"]
+  B --> C["Real-time"]
+  C --> D["Experiences"]
+```
 
 ---
 
