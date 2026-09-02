@@ -3,11 +3,11 @@
 -->
 
 <div align="center">
-  <img src="./banner.png" alt="Salman Abir — Frontend Developer" width="100%" />
+  <img src="banner.png" alt="Salman Abir — Frontend Developer" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Frontend+Developer+%C2%B7+Web+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript;WebRTC+%C2%B7+Canvas+%C2%B7+Media+APIs;Building+beyond+the+browser" alt="Typing tagline" />
 
-  <img src="./status.svg" alt="Open to interesting frontend work" />
+  <img src="status.svg" alt="Open to interesting frontend work" />
 
   <br />
 
@@ -35,7 +35,7 @@ Frontend developer since **2017**. I ship production interfaces in **React, Next
 I don’t just consume web APIs. I want to know how they behave under load, what they cost, and when they’re the right tool.
 
 <div align="center">
-  <img src="./architecture.svg" alt="Architecture: React to browser APIs to real-time experiences" width="100%" />
+  <img src="architecture.svg" alt="Architecture: React to browser APIs to real-time experiences" width="100%" />
 </div>
 
 ---
@@ -86,7 +86,18 @@ Canvas graphics, editors, and dense data UIs where the platform does more than p
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,git,github,vscode,figma" alt="React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind, Bootstrap, Git, GitHub, VS Code, Figma" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 **Browser** · WebRTC · WebSockets · Canvas · MediaRecorder / Web Audio · HLS · Web Workers  
@@ -131,12 +142,12 @@ next        Tighter media pipelines, better peer UX
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SalmanAAbir&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanAAbir&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://gh-stats.work/api?username=SalmanAAbir&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub stats" />
+  <img height="165" src="https://gh-stats.work/api/top-langs/?username=SalmanAAbir&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanAAbir&bg_color=0d1117&color=58a6ff&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=SalmanAAbir&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </div>
 
 ---
