@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <img src="./banner.jpg" alt="Salman Abir" width="100%" />
+  <img src="./banner.png" alt="Salman Abir" width="100%" />
 
 <br /><br />
 # SALMAN ABIR
