@@ -3,6 +3,9 @@
 -->
 
 <div align="center">
+  <img src="./banner.png" alt="Salman Abir" width="100%" />
+
+<br /><br />
 # SALMAN ABIR
 
 ### Frontend Developer · Web Engineer
