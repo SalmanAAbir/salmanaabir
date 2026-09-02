@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-
+![Salman Abir](./banner.png)
 # SALMAN ABIR
 
 ### Frontend Developer · Web Engineer
