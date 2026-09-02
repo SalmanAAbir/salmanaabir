@@ -39,12 +39,17 @@ Frontend developer since **2017**. I ship production interfaces in **React, Next
 
 I don’t just consume web APIs. I want to know how they behave under load, what they cost, and when they’re the right tool.
 
-```mermaid
-flowchart LR
-  A["React / Next.js"] --> B["Browser APIs"]
-  B --> C["Real-time"]
-  C --> D["Experiences"]
-```
+<table>
+<tr>
+<td align="center" width="22%"><strong>React / Next.js</strong><br/><sub>TypeScript · UI</sub></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><strong>Browser APIs</strong><br/><sub>Canvas · Media · Workers</sub></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><strong>Real-time</strong><br/><sub>WebRTC · WebSockets</sub></td>
+<td align="center" width="4%">→</td>
+<td align="center" width="22%"><strong>Experiences</strong><br/><sub>Playback · collab · live</sub></td>
+</tr>
+</table>
 
 ---
 
